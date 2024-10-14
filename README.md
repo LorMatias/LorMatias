@@ -1,16 +1,31 @@
-## Hi there 👋
+Matias Lor | Desarrollador Web Full Stack 🚀
+¡Hola! Soy un desarrollador web recién graduado de Henry, apasionado por crear soluciones digitales innovadoras y eficientes.
 
-<!--
-**LorMatias/LorMatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologías y Habilidades
+Frontend: JavaScript, TypeScript, React, Next.js,Tailwind
+Backend: Node.js, Express
+Soft Skills: Comunicación efectiva, autonomía, trabajo en equipo, adaptabilidad, resolución de problemas
+💡 Mi Enfoque
+Me especializo en desarrollar interfaces de usuario intuitivas, accesibles y simplificadas. Mi objetivo es crear experiencias digitales que no solo cumplan con los requisitos técnicos, sino que también generen un impacto positivo en los usuarios.
 
-Here are some ideas to get you started:
+🌟 Lo que me distingue
+Enfoque práctico en la resolución de problemas
+Habilidad para ejecutar proyectos exitosos para diversos usuarios
+Compromiso con el aprendizaje continuo y el crecimiento profesional
+Capacidad para aplicar habilidades técnicas e interpersonales hacia objetivos tangibles
+Estoy emocionado por la oportunidad de contribuir significativamente a proyectos innovadores y dejar una huella positiva en el mundo digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Colaboración
+
+Estoy interesado en colaborar en proyectos innovadores y desafiantes. Si tienes una idea o proyecto en mente, ¡me encantaría escucharlo!
+
+### 💻 Disponibilidad
+
+Actualmente estoy [buscando nuevas oportunidades / abierto a trabajos freelance / disponible para proyectos a tiempo parcial].
+
+### 🌱 Aprendizaje continuo
+
+Siempre estoy aprendiendo nuevas tecnologías. Actualmente, estoy enfocado en [menciona alguna tecnología o habilidad que estés aprendiendo].
+
+¡No dudes en contactarme para cualquier consulta, oportunidad o simplemente para charlar sobre tecnología y desarrollo web!
+ ¿Tienes un proyecto desafiante en mente? ¡Hablemos!## Hi there 👋  📧lormatias@gmail.com
