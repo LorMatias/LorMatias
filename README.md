@@ -25,7 +25,7 @@ Actualmente estoy [buscando nuevas oportunidades / abierto a trabajos freelance 
 
 ### 🌱 Aprendizaje continuo
 
-Siempre estoy aprendiendo nuevas tecnologías. Actualmente, estoy enfocado en [menciona alguna tecnología o habilidad que estés aprendiendo].
+Siempre estoy aprendiendo nuevas tecnologías. Actualmente, estoy enfocado en mejorar mis habilidades de UI/UX
 
 ¡No dudes en contactarme para cualquier consulta, oportunidad o simplemente para charlar sobre tecnología y desarrollo web!
  ¿Tienes un proyecto desafiante en mente? ¡Hablemos!## Hi there 👋  📧lormatias@gmail.com
