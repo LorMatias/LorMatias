@@ -1,7 +1,7 @@
 Matias Lor | Desarrollador Web Full Stack 
  JavaScript, TypeScript, React, Next.js,Tailwind
  Node.js, Express
-Soft Skills: Comunicación efectiva, autonomía, trabajo en equipo, adaptabilidad, resolución de problemas
+
 
 Me especializo en desarrollar interfaces de usuario intuitivas, accesibles y simplificadas. Mi objetivo es crear experiencias digitales que no solo cumplan con los requisitos técnicos, sino que también generen un impacto positivo en los usuarios.
 
