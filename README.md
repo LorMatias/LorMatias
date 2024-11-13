@@ -1,5 +1,5 @@
-Matias Lor | Desarrollador Web Full Stack 🚀
-¡Hola! Soy un desarrollador web recién graduado
+Matias Lor | Desarrollador Web Full Stack 
+
 
 🛠️ Tecnologías y Habilidades
 Frontend: JavaScript, TypeScript, React, Next.js,Tailwind
