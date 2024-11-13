@@ -1,5 +1,5 @@
 Matias Lor | Desarrollador Web Full Stack 🚀
-¡Hola! Soy un desarrollador web recién graduado de Henry, apasionado por crear soluciones digitales innovadoras y eficientes.
+¡Hola! Soy un desarrollador web recién graduado
 
 🛠️ Tecnologías y Habilidades
 Frontend: JavaScript, TypeScript, React, Next.js,Tailwind
