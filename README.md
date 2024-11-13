@@ -1,4 +1,4 @@
-Matias Lor | Desarrollador Web Full Stack 
+Matias Lor | Desarrollador Web Full Stack| 
  JavaScript, TypeScript, React, Next.js,Tailwind
  Node.js, Express
 
