@@ -11,4 +11,4 @@ Actualmente estoy [buscando nuevas oportunidades / abierto a trabajos freelance 
 
 
 ¡No dudes en contactarme para cualquier consulta, oportunidad o simplemente para charlar sobre tecnología y desarrollo web!
- ¿Tienes un proyecto desafiante en mente?   📧lormatias@gmail.com // https://www.linkedin.com/in/matias-lor
+ ¿Tienes un proyecto desafiante en mente?  https://www.linkedin.com/in/matias-lor
